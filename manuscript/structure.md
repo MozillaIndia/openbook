@@ -2,7 +2,7 @@
 
 # Mozilla India Restructure Proposal
 
-Status: Draft v0.2.0 - RFC
+Status: Draft v0.2.0 - RFC \\
 Date: August 28, 2016
 
 ## Vision for the community
@@ -20,16 +20,16 @@ Date: August 28, 2016
 
 ### FAQ
 
-Q: What do you mean by transparency?
+Q: What do you mean by transparency? \\
 A: Talk and work in the open
 
-Q: What do you mean by being explicit about invitation?
+Q: What do you mean by being explicit about invitation? \\
 A: Explicitly welcome contributions by documenting things which will make onboarding simpler. Announce on channels where people are listening.
 
-Q: What does decentralized decision making mean in this context?
+Q: What does decentralized decision making mean in this context? \\
 A: No central person for making any decisions related to the team or the larger community.
 
-Q: What does ubiquity mean here?
+Q: What does ubiquity mean here? \\
 A: Present everywhere, on the channels that are decided to be the primary communication channels of the entire community.
 
 
@@ -70,7 +70,7 @@ The community code of conduct will adopt the very same [Mozilla's up-to-date CoC
 
 ### FAQ
 
-A: What are self-checks?
+A: What are self-checks? \\
 Q: Self-evaluation, which includes introspection (analyze your own ideas and thoughts) and retrospection (analyze the past and identify things which can be improved). This can be done both for yourself or for a team or, even, for the larger community.
 
 ## Hierarchy
