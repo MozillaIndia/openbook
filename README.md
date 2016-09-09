@@ -6,6 +6,10 @@ TMIOB serves as the canonical document for the organizational structure adopted 
 
 [**View/Download the published version**](https://leanpub.com/mozillaindia-openbook)
 
+## Contributing
+
+This is a collaboratively written book. If you are interested in helping improve it, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## License
 
 [![Creative Commons Attribution 4.0 International License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
