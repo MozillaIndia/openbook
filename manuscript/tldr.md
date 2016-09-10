@@ -1,10 +1,10 @@
--# TL;DR
+# TL;DR
 
 Here is a quick summary of the currently proposed organizational
 structure for the Mozilla India community. If you are interested in
 the full proposal, skip to the next chapter.
 
-# Proposal summary
+## Proposal summary
 
 Have open, transparent, accountable teams with decentralized decision
 making and utmost flexibility and adaptability in structure.
