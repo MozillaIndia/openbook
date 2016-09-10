@@ -29,6 +29,6 @@ instance to check the impact of every effort and to ascertain the
 community health in general.
 
 This is a constantly evolving, fluid and flexible structure. Everyone
-is welcome to take up the things they like and work together with
+is urged to take up the things they like and work together with
 others, and in the process, improve the structure itself. Nothing is
 set is stone.
