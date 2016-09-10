@@ -18,21 +18,6 @@ Date: August 28, 2016
 - Ensure accountability through clear metrics and documentation of actions and decisions.
 - Use flexible and adaptive structure which keeps on improving itself through constant feedback and evaluation.
 
-### FAQ
-
-Q: What do you mean by transparency? \\
-A: Talk and work in the open
-
-Q: What do you mean by being explicit about invitation? \\
-A: Explicitly welcome contributions by documenting things which will make onboarding simpler. Announce on channels where people are listening.
-
-Q: What does decentralized decision making mean in this context? \\
-A: No central person for making any decisions related to the team or the larger community.
-
-Q: What does ubiquity mean here? \\
-A: Present everywhere, on the channels that are decided to be the primary communication channels of the entire community.
-
-
 ### Code of Conduct
 
 The community code of conduct will adopt the very same [Mozilla's up-to-date CoC](https://www.mozilla.org/en-US/about/governance/policies/participation/).
@@ -66,12 +51,6 @@ The community code of conduct will adopt the very same [Mozilla's up-to-date CoC
 - Every entity (individual or team) in the community starts with a preset level of trust
 - The level of trust allows for different level of responsibilities to be undertaken
 - The trust level can be gained or lost, based on the activities/track-records
-
-
-### FAQ
-
-A: What are self-checks? \\
-Q: Self-evaluation, which includes introspection (analyze your own ideas and thoughts) and retrospection (analyze the past and identify things which can be improved). This can be done both for yourself or for a team or, even, for the larger community.
 
 ## Hierarchy
 
