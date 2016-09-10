@@ -34,8 +34,4 @@ If you want to write a new chapter, follow this process:
 
 ## Editing an existing chapter
 
-If you want to edit an existing chapter, simply edit the text and send a PR.
-
-## Version strategy
-
-TODO
+If you want to edit an existing chapter, simply edit the text and send a pull request to the `master` branch.
