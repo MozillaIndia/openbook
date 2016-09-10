@@ -31,4 +31,4 @@ community health in general.
 This is a constantly evolving, fluid and flexible structure. Everyone
 is urged to take up the things they like and work together with
 others, and in the process, improve the structure itself. Nothing is
-set is stone.
+set in stone.
