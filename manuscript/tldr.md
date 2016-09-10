@@ -11,14 +11,18 @@ making and utmost flexibility and adaptability in structure.
 
 Overall team composition consists of "Functional Teams" (with long
 term focus) and "Focus Teams" (possibly cross-functional, with short
-term focus on particular events/use cases). An overarching "Meta Team"
-glues things together and ensures smooth function and cross-team
-collaboration. The teams are supported by various infrastructure and
-communication channels.
+term focus on particular events/use cases). These teams are formed
+around functional contribution areas, with a degree of alignment with
+Mozilla's key concerns.
 
-Teams are formed around functional contribution areas, with a degree
-of alignment with Mozilla's key concerns. Geographic representation is
-ascertained by virtue of being present at a particular location.
+There are also "Geographic Teams" that consist of Mozillians in
+particular regions and help in discovering and connecting Mozillians.
+These teams get together when the scope of an activity is restricted
+to a geographic location.
+
+An overarching "Meta Team" glues things together and ensures smooth
+function and cross-team collaboration. The teams are supported by
+various infrastructure and communication channels.
 
 Ownership is on everyone for the roles they take up. Leadership is a
 result of achieving expertise through constant practice and grows
