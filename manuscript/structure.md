@@ -2,9 +2,6 @@
 
 # Mozilla India Restructure Proposal
 
-Status: Draft v0.2.0 - RFC \\
-Date: August 28, 2016
-
 ## Vision for the community
 
 **Enable the community to uphold the Mozilla mission at any scale, while remaining relevant to individual contributors.**
