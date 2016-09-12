@@ -23,6 +23,10 @@ The "Meta Team" glues things together and ensures smooth function and
 cross-team collaboration. The teams are supported by various
 infrastructure and communication channels.
 
+Each team will have two "facilitators" who will act as the
+communication interface of the team with the outside world. They will
+take up accountability on behalf of their teams.
+
 There are also "Geographic Groups" that consist of Mozillians in
 particular regions and help in discovering and connecting Mozillians
 by location.
