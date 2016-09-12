@@ -1,2 +1,5 @@
+Version.txt
 introduction.md
+tldr.md
 structure.md
+structure-faq.md

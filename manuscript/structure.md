@@ -2,9 +2,6 @@
 
 # Mozilla India Restructure Proposal
 
-Status: Draft v0.2.0 - RFC \\
-Date: August 28, 2016
-
 ## Vision for the community
 
 **Enable the community to uphold the Mozilla mission at any scale, while remaining relevant to individual contributors.**
@@ -17,21 +14,6 @@ Date: August 28, 2016
 - Maintain ubiquity of communications
 - Ensure accountability through clear metrics and documentation of actions and decisions.
 - Use flexible and adaptive structure which keeps on improving itself through constant feedback and evaluation.
-
-### FAQ
-
-Q: What do you mean by transparency? \\
-A: Talk and work in the open
-
-Q: What do you mean by being explicit about invitation? \\
-A: Explicitly welcome contributions by documenting things which will make onboarding simpler. Announce on channels where people are listening.
-
-Q: What does decentralized decision making mean in this context? \\
-A: No central person for making any decisions related to the team or the larger community.
-
-Q: What does ubiquity mean here? \\
-A: Present everywhere, on the channels that are decided to be the primary communication channels of the entire community.
-
 
 ### Code of Conduct
 
@@ -48,7 +30,7 @@ The community code of conduct will adopt the very same [Mozilla's up-to-date CoC
   - They work as the arbitrators to help finalize team decisions (and save from it needing to bubble up to meta team)
   - They ensure execution of the undertaken responsibilities of the team and publish activity reports publicly and to the overseeing body
   - In any case either of the facilitators discontinues or becomes unavailable for the role, a second facilitator is chosen from the team within a preset timeout
-  - Any concern about the team's’ health, deliverable, execution should be resolved by the facilitators, and to be flagged to the overseeing team if failed within preset timeout
+  - Any concern about the team's health, deliverable, execution should be resolved by the facilitators, and to be flagged to the overseeing team if failed within preset timeout
   - Any concern about peer teams' health, operation, and execution should also be noted, reviewed and resolved OR flagged to the common overseeing team, as soon as observed
 
 - Each team can have their own preferred internal communication channels, but they would have to conform to the community preferred channels to document, broadcast and publish activity reports
@@ -66,12 +48,6 @@ The community code of conduct will adopt the very same [Mozilla's up-to-date CoC
 - Every entity (individual or team) in the community starts with a preset level of trust
 - The level of trust allows for different level of responsibilities to be undertaken
 - The trust level can be gained or lost, based on the activities/track-records
-
-
-### FAQ
-
-A: What are self-checks? \\
-Q: Self-evaluation, which includes introspection (analyze your own ideas and thoughts) and retrospection (analyze the past and identify things which can be improved). This can be done both for yourself or for a team or, even, for the larger community.
 
 ## Hierarchy
 
@@ -104,7 +80,7 @@ Q: Self-evaluation, which includes introspection (analyze your own ideas and tho
 
 - Persistent group
 - Core purpose is to enable functions that benefit from geographic coordination
-- Membership is by virtue of someone’s presence in that geographic area, and it will be seamless for any person to move to a new geographical group
+- Membership is by virtue of someone's presence in that geographic area, and it will be seamless for any person to move to a new geographical group
 - Supported by Meta Team
 
 
