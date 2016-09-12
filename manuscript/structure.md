@@ -30,7 +30,7 @@ The community code of conduct will adopt the very same [Mozilla's up-to-date CoC
   - They work as the arbitrators to help finalize team decisions (and save from it needing to bubble up to meta team)
   - They ensure execution of the undertaken responsibilities of the team and publish activity reports publicly and to the overseeing body
   - In any case either of the facilitators discontinues or becomes unavailable for the role, a second facilitator is chosen from the team within a preset timeout
-  - Any concern about the team's’ health, deliverable, execution should be resolved by the facilitators, and to be flagged to the overseeing team if failed within preset timeout
+  - Any concern about the team's health, deliverable, execution should be resolved by the facilitators, and to be flagged to the overseeing team if failed within preset timeout
   - Any concern about peer teams' health, operation, and execution should also be noted, reviewed and resolved OR flagged to the common overseeing team, as soon as observed
 
 - Each team can have their own preferred internal communication channels, but they would have to conform to the community preferred channels to document, broadcast and publish activity reports
@@ -80,7 +80,7 @@ The community code of conduct will adopt the very same [Mozilla's up-to-date CoC
 
 - Persistent group
 - Core purpose is to enable functions that benefit from geographic coordination
-- Membership is by virtue of someone’s presence in that geographic area, and it will be seamless for any person to move to a new geographical group
+- Membership is by virtue of someone's presence in that geographic area, and it will be seamless for any person to move to a new geographical group
 - Supported by Meta Team
 
 
